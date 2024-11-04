@@ -1,2 +1,1 @@
-# pokemon-gym
-f24 Nov 4 class exercise to setup git issues and git actions on the ci cd pipeline
+###The purpose of my GitHub repository is to share best practices and Development, Operations for making a simple working CICD pipeline in a GitHub repository.
